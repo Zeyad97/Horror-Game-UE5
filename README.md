@@ -13,6 +13,13 @@ A mysterious message threatens your life, and **something** is watching you. Can
 
 ---
 
+## 🎥 YouTube Gameplay
+
+[![Watch the trailer](https://img.youtube.com/vi/tyKMCnY-IfU/0.jpg)](https://youtu.be/tyKMCnY-IfU)
+*Make sure to wear headphones... 👻*
+
+---
+
 ## 🎮 Platform
 
 - ✅ **PC (Windows)**
@@ -35,13 +42,6 @@ A mysterious message threatens your life, and **something** is watching you. Can
 - 💡 Flashlight mechanics, hiding spots, and creepy messages  
 - 🔚 Different outcomes depending on your choices
   
----
-
-## 🎥 YouTube Gameplay
-
-[![Watch the trailer](https://img.youtube.com/vi/tyKMCnY-IfU/0.jpg)](https://youtu.be/tyKMCnY-IfU)
-*Make sure to wear headphones... 👻*
-
 ---
 
 ## 📲 Try It Now!
