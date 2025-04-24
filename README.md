@@ -34,7 +34,7 @@ A mysterious message threatens your life, and **something** is watching you. Can
 - 🎧 Atmospheric horror with immersive audio  
 - 💡 Flashlight mechanics, hiding spots, and creepy messages  
 - 🔚 Different outcomes depending on your choices
-- 
+  
 ---
 
 ## 🎥 YouTube Gameplay
