@@ -16,7 +16,9 @@ A mysterious message threatens your life, and **something** is watching you. Can
 ## 🎥 YouTube Gameplay
 
 [![Watch the trailer](https://img.youtube.com/vi/tyKMCnY-IfU/0.jpg)](https://youtu.be/tyKMCnY-IfU)
-*Make sure to wear headphones... 👻*
+
+*Click the image to watch the trailer on YouTube.👻*
+
 
 ---
 
