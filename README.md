@@ -39,7 +39,7 @@ A mysterious message threatens your life, and **something** is watching you. Can
 
 ## 🎥 YouTube Gameplay
 
-📺 [Watch the YouTube Trailer / Full Gameplay](https://youtu.be/tyKMCnY-IfU?si=6OuesXXlhl2d-umy)  
+[![Watch the trailer](https://img.youtube.com/vi/tyKMCnY-IfU/0.jpg)](https://youtu.be/tyKMCnY-IfU)
 *Make sure to wear headphones... 👻*
 
 ---
